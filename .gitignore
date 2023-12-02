@@ -1,7 +1,14 @@
 /clip-trash
 /clip-trash-s2
 /vit-base-trash
+/vit-base-trash-csce
+/vit-base-trash-ovareg
 /dataset
 /resnet-50-trash
+/resnet-50-trash-csce
+/resnet-50-trash-ovareg
+/vit-base-fmnist
+/vit-base-fmnist-csce
+/vit-base-fmnist-ovareg
 /__pycache__
 cse512-checkpoints-dataset.zip
