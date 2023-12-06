@@ -3,4 +3,4 @@
 /train/clip-*/
 /train/resnet-*/
 /__pycache__
-model-checkpoints-dataset.zip
+*.zip
